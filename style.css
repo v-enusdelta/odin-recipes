@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+    padding: 20px;
+}
+
+.recipe-title {
+    background-color: darkgoldenrod;
+    color:rgb(13, 35, 43);
+    font-family: Georgia, serif;
+    padding-left: 5%;
+}
