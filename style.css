@@ -9,3 +9,28 @@ body {
     font-family: Georgia, serif;
     padding-left: 5%;
 }
+
+#recipenav {
+    background-color: burlywood;
+    margin: 10px;
+    padding: 16px;
+    text-align:center;
+    
+}
+
+.link-card {
+    display:inline-block;
+    border: 1px solid dimgrey;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.link-card:hover {
+    background-color: aliceblue;
+}
+
+.link-card a{
+    text-decoration: none;
+    color: black;
+}
